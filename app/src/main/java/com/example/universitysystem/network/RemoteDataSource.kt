@@ -10,7 +10,8 @@ import retrofit2.create
 class RemoteDataSource {
 
     companion object{
-        val BASE_URL = "http://192.168.2.2:8080/"
+        val BASE_URL = "YOU CAN USE YOUR  OWN BACKEND OR IMPELEMENT UNIVERSITY-SYSTEM-BACKEND PROJECT THEN INTEGRATE IT: https://github.com/SabirHalil/University-System-Backend.git"
+                                  
     }
     fun <Api> buildApi(
         api:Class<Api>,
