@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+            <item
+                android:id="@+id/dining_item"
+                android:icon="@drawable/ic_dining"
+                android:title="DingingHall"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/map_item"
+                android:icon="@drawable/ic_location"
+                android:title="Maps"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/email_item"
+                android:icon="@drawable/ic_outline_email_24"
+                android:title="Email"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/rate_item"
+                android:icon="@drawable/ic_rate"
+                android:title="Rate us"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/question_answer_item"
+                android:icon="@drawable/ic_question_answer"
+                android:title="Q&amp;A"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/internship_item"
+                android:icon="@drawable/ic_work"
+                android:title="Internship"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/download_student_certificate_item"
+                android:icon="@drawable/ic_download"
+                android:title="Student certificate"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/change_password_item"
+                android:icon="@drawable/ic_change_password"
+                android:title="Change password"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/logout_item"
+                android:icon="@drawable/ic_power"
+                android:title="Logout"
+                android:checkable="true"
+                app:showAsAction="ifRoom"/>
+
+
+
+
+
+</menu>

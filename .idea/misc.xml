@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/drawable-v24/bg_bottom_sheet.xml" value="0.163" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/drawable-v24/bg_light_purple.xml" value="0.175" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/drawable-v24/bg_notification.xml" value="0.155" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/drawable-v24/bg_radio_button_selector.xml" value="0.175" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/drawable/bg_announcement.xml" value="0.175" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/drawable/bg_button_solid.xml" value="0.175" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/drawable/bg_button_solid_purple.xml" value="0.175" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/drawable/ic_menu.xml" value="0.175" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/change_password_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/faq_dialog.xml" value="0.253125" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/fragment_lecture_selection.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/fragment_lectures.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/fragment_student_lectures.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/map_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/meal_dialog.xml" value="0.253125" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/nav_header_layout.xml" value="0.253125" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/one_announcement_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/one_dish_layout.xml" value="0.253125" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/one_faq_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/one_lecture_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/one_lectures_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/one_meal_layout.xml" value="0.253125" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/layout/one_notification_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/menu/menu_bottom.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/alone/AndroidStudioProjects/UniversitySystem/app/src/main/res/menu/navigation_drawer.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
