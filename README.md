@@ -15,7 +15,7 @@ An intuitive university system application designed with a clean and efficient a
  - **Dagger Hilt** : Dependency injection library for Android.
 
 ## Screenshots
-
+<img src="assets/screenshots.PNG?raw=true"/>
  
 
 
