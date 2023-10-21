@@ -1,12 +1,14 @@
-# University-System-Mobile-Kotlin
-An intuitive university system application designed with a clean and efficient architecture. Leveraging the power of MVVM, this app offers a wide array of valuable features.
 
-## Backend Installation
- Feel free to explore the University-System-Backend for testing or a closer look <a href="https://github.com/SabirHalil/University-System-Backend">here</a>.
-  
-## Architecture
- The project is written in Kotlin, using the "classical" Andorid UI framework (XMLs + Views).
- ##### Third party dependency
+<h1 align="center">University-System-Mobile-Kotlin</h1>
+An university system application designed with a clean and efficient architecture. Leveraging the power of MVVM, this app offers a wide array of valuable features.
+The project is written in Kotlin, using the "classical" Andorid UI framework (XMLs + Views).
+
+## Screenshots
+<img src="screenshots/screenshots.png?raw=true"/>
+
+## Libraries
+
+
  - **CircleImageView** : A library for displaying circular images.
  - **Retrofit** : A versatile HTTP client for making network requests and parsing JSON responses.
  - **Lottie** : A library for rendering animations and vector graphics.
@@ -15,8 +17,12 @@ An intuitive university system application designed with a clean and efficient a
  - **ViewModel** : Part of AndroidX Lifecycle, providing LiveData support.
  - **Dagger Hilt** : Dependency injection library for Android.
 
-## Screenshots
-<img src="screenshots/screenshots.png?raw=true"/>
+## Backend Installation
+ Feel free to explore the University-System-Backend for testing or a closer look <a href="https://github.com/SabirHalil/University-System-Backend">here</a>.
+  
+
+
+
  
 
 
