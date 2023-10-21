@@ -21,8 +21,9 @@ The project is written in Kotlin, using the "classical" Andorid UI framework (XM
  Feel free to explore the University-System-Backend for testing or a closer look <a href="https://github.com/SabirHalil/University-System-Backend">here</a>.
 
 ## TODO
-- Internship
-- Assistent approval
+- Internship section
+- Assistent approval process
+- Impelement coroutines
   
   
 
