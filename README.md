@@ -6,6 +6,7 @@ An intuitive university system application designed with a clean and efficient a
   
 ## Architecture
  The project is written in Kotlin, using the "classical" Andorid UI framework (XMLs + Views).
+ ##### Third party dependency
  - **CircleImageView** : A library for displaying circular images.
  - **Retrofit** : A versatile HTTP client for making network requests and parsing JSON responses.
  - **Lottie** : A library for rendering animations and vector graphics.
